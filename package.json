@@ -1,0 +1,29 @@
+{
+  "name": "huyhoang2564.github.io",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huyhoang2564/huyhoang2564.github.io.git"
+  },
+  "author": "Trương Huy Hoàng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huyhoang2564/huyhoang2564.github.io/issues"
+  },
+  "homepage": "https://github.com/huyhoang2564/huyhoang2564.github.io#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4",
+    "vite": "^5.2.13"
+  }
+}
